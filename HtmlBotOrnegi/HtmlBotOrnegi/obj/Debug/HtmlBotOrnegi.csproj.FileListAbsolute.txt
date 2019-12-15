@@ -1,0 +1,11 @@
+C:\Users\fgx\Desktop\Yeni klasör\HtmlBotOrnegi\HtmlBotOrnegi\bin\Debug\HtmlBotOrnegi.exe.config
+C:\Users\fgx\Desktop\Yeni klasör\HtmlBotOrnegi\HtmlBotOrnegi\bin\Debug\HtmlBotOrnegi.exe
+C:\Users\fgx\Desktop\Yeni klasör\HtmlBotOrnegi\HtmlBotOrnegi\bin\Debug\HtmlBotOrnegi.pdb
+C:\Users\fgx\Desktop\Yeni klasör\HtmlBotOrnegi\HtmlBotOrnegi\bin\Debug\HtmlAgilityPack.dll
+C:\Users\fgx\Desktop\Yeni klasör\HtmlBotOrnegi\HtmlBotOrnegi\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\fgx\Desktop\Yeni klasör\HtmlBotOrnegi\HtmlBotOrnegi\bin\Debug\HtmlAgilityPack.xml
+C:\Users\fgx\Desktop\Yeni klasör\HtmlBotOrnegi\HtmlBotOrnegi\obj\Debug\HtmlBotOrnegi.csprojAssemblyReference.cache
+C:\Users\fgx\Desktop\Yeni klasör\HtmlBotOrnegi\HtmlBotOrnegi\obj\Debug\HtmlBotOrnegi.csproj.CoreCompileInputs.cache
+C:\Users\fgx\Desktop\Yeni klasör\HtmlBotOrnegi\HtmlBotOrnegi\obj\Debug\HtmlBotOrnegi.csproj.CopyComplete
+C:\Users\fgx\Desktop\Yeni klasör\HtmlBotOrnegi\HtmlBotOrnegi\obj\Debug\HtmlBotOrnegi.exe
+C:\Users\fgx\Desktop\Yeni klasör\HtmlBotOrnegi\HtmlBotOrnegi\obj\Debug\HtmlBotOrnegi.pdb
